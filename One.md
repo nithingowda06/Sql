@@ -25,3 +25,27 @@ It is a **programming language** used to **interact with databases** — to stor
 1. **Create** databases and tables  
    ```sql
    CREATE DATABASE School;
+
+2. **Insert data**
+```sql
+INSERT INTO Students VALUES (101, 'Nithin', 20, 'ISE');
+```
+
+3. **Retrieve data**
+```sql
+SELECT * FROM Students;
+```
+
+4. **Update data**
+```sql
+UPDATE Students SET Age = 21 WHERE Student_ID = 101;
+```
+
+Delete data
+
+DELETE FROM Students WHERE Student_ID = 101;
+
+In Short
+Term	Meaning
+Database	A place where data is stored
+SQL	The language used to manage that data
