@@ -47,6 +47,5 @@ It is a **programming language** used to **interact with databases** — to stor
    ```
 ## In Short
 
-Term	     Meaning
-Database	  A place where data is stored
-SQL	     The language used to manage that data
+**Database**	  A place where data is stored</br>
+**SQL**     The language used to manage that data
